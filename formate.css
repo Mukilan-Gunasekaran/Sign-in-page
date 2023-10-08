@@ -1,0 +1,49 @@
+body {
+      font-family: cursive;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+    
+      background-image: url('C:\Users\student.AT-12\Desktop\Login Page\anime (1).jpg');
+      
+      /* background-color: rgba(194, 152, 132, 0.76); */
+      border-color: aqua;
+
+    }
+
+    form {
+      width: 300px;
+      padding: 20px;
+      border: 1px solid #9de9bf;
+      background-color: #9de9bf;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      background-image: url('C:\Users\student.AT-12\Desktop\Login Page\anime (1).jpg');
+    
+    }
+
+    label {
+      display: block;
+      margin-bottom: 8px;
+      background-color: #9de9bf;
+    }
+
+    input {
+      width: 100%;
+      padding: 8px;
+      margin-bottom: 16px;
+      box-sizing: border-box;
+    
+    }
+
+    button {
+        font-family: cursive;
+      background-color: #1225ce;
+      color: white;
+      padding: 10px 15px;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+    }
